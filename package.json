@@ -1,6 +1,6 @@
 {
-  "homepage": "https://abhipatel279.github.io/my-codepan/",
-  "name": "my-app",
+  "homepage": "https://abhipatel279.github.io/my-codepan",
+  "name": "my-codepan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
